@@ -1,5 +1,4 @@
-Olá, eu sou o Silas, um Web full stack development!
-
+Olá, eu sou o Silas, um estudante de desenvolvimento Web Full Stack!
 
 <div style="display: inline_block" align="center"><br>
   <a href="https://www.instagram.com/silassousadejesus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
