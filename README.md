@@ -6,7 +6,7 @@ Atualmente estudo e desenvolvo utilizando as seguintes tecnologias:
   HTML,
   CSS,
   JavaScript,
-  BootStrap
+  BootStrap,
   TypeScript,
   Angular,
   NodeJs,
