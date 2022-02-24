@@ -3,14 +3,14 @@ Olá, eu sou o Silas, um estudante de desenvolvimento Web Full Stack!
 
 Atualmente estudo e desenvolvo utilizando as seguintes tecnologias:
   
-  HTML
-  CSS
-  JavaScript
-  TypeScript
-  Angular
-  NodeJs
-  MySQL
-  MongoDB
+  HTML,
+  CSS,
+  JavaScript,
+  TypeScript,
+  Angular,
+  NodeJs,
+  MySQL,
+  MongoDB,
   FireBase
 
 <div style="display: inline_block" align="center"><br>
