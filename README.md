@@ -3,10 +3,10 @@
   <h3>  Olá, sou o Silas!</h3>
    <h3> Sou Desenvolvedor Web Full Stack e estudante de Analise e desenvolvimento de Sistemas(3/5).</h3>
   </div>
-
+  <br>
   <div>
   <h2 align="center"> Tecnologias & Ferramentas que estudo e utilizo</h2>
-  <br>
+
   <div>
     <h4>Linguagens de programação e afins:</h4>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
