@@ -1,7 +1,7 @@
 <div>
   <h2 align="center">Seja bem vindo(a)!</h2>
-  <h3>  Olá, sou o Silas Sousa!Sou estudante de desenvolvimento Web Full Stack e também estudo Analise de desenvolvimento de Sistemas(3/5).</h3>
-   <h3>  Sou Desenvolvedor Web Full Stack e estudante Analise de desenvolvimento de Sistemas(3/5).</h3>
+  <h3>  Olá, sou o Silas!</h3>
+   <h3> Sou Desenvolvedor Web Full Stack e estudante de Analise e desenvolvimento de Sistemas(3/5).</h3>
   </div>
 
   <div>
