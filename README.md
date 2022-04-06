@@ -1,10 +1,11 @@
 <div>
-  <h2 align="center">&rArr; Olá, sou o Silas Sousa &lArr;</h2>
-  <p> Sou estudante de desenvolvimento Web Full Stack e também estudo Analise de desenvolvimento de Sistemas(3/5).</P>
+  <h2 align="center">Seja bem vindo(a)!</h2>
+  <h3>  Olá, sou o Silas Sousa!Sou estudante de desenvolvimento Web Full Stack e também estudo Analise de desenvolvimento de Sistemas(3/5).</h3>
+   <h3>  Sou Desenvolvedor Web Full Stack e estudante Analise de desenvolvimento de Sistemas(3/5).</h3>
   </div>
 
   <div>
-  <h2 align="center">&rArr; Tecnologias & Ferramentas que estudo e utilizo &lArr;</h2>
+  <h2 align="center"> Tecnologias & Ferramentas que estudo e utilizo</h2>
   <br>
   <div>
     <h4>Linguagens de programação e afins:</h4>
