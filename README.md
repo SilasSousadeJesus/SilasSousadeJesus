@@ -2,7 +2,14 @@
   <h2 align="center">Seja bem vindo(a)!</h2>
   <h3>  Olá, sou o Silas!</h3>
    <h3> Sou Desenvolvedor Web Full Stack e estudante de Analise e desenvolvimento de Sistemas(3/5).</h3>
-  </div>
+   <h2 align="center"> &rArr; Contatos &lArr;</h2>
+<div style="display: inline_block" align="center"><br>
+  <a href="https://www.instagram.com/silassousadev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:silassousadejesus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/silassousadejesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div><br> 
+</div>
+  
   <br>
 
   <h2 align="center"> Tecnologias & Ferramentas que estudo e utilizo</h2>
@@ -28,12 +35,3 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
     <img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" >
   </div>
-
-
-
-<h2 align="center"> &rArr; Contatos &lArr;</h2>
-<div style="display: inline_block" align="center"><br>
-  <a href="https://www.instagram.com/silassousadev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:silassousadejesus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/silassousadejesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div><br>
