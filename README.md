@@ -1,10 +1,8 @@
  <div>
   <h2 align="center">Seja bem vindo(a)!</h2>
-  <h3>  Olá, sou o Silas!</h3>
-   <h3> Sou Desenvolvedor Web Full Stack e estudante de Analise e desenvolvimento de Sistemas(3/5).</h3>
-
+ <div align="center">
    ![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilasSousadeJesus&show_icons=true&theme=radical)
- 
+ </div>
   <br>
  
    <h2 align="center"> &rArr; Contatos &lArr;</h2>
