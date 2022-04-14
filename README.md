@@ -1,8 +1,10 @@
  <div>
-  <h2 align="center">Seja bem vindo(a)!</h2>
+  <h2 align="center">Seja bem vindo(a), meu nome é Silas!</h2>
+  <p>Eu sou desenvolvedor Web Full Stack e utilizo Angular e NodeJS, mais tenho estudado bastante React. No meu tempo livre gosto de ouvir musica, assistir seriados e jogar. Sou apaixonado por compor, cantar e tocar, mas não é  algo profissional, apenas um hooby. Atualmente estou cursando Analise e Desenvolvimento de Sistemas (3/5).</p>
+  <div>
  <div align="center">
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SilasSousadeJesus&show_icons=true&theme=radical">
-  </div>
+</div>
   
   <br>
  
