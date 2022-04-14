@@ -1,8 +1,8 @@
  <div>
   <h2 align="center">Seja bem vindo(a)!</h2>
- <div align="center">
+ 
    ![Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilasSousadeJesus&show_icons=true&theme=radical)
- </div>
+
   <br>
  
    <h2 align="center"> &rArr; Contatos &lArr;</h2>
