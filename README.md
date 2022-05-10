@@ -2,6 +2,9 @@
   <h2 align="center">Seja bem vindo(a), meu nome é Silas!</h2>
   <p>Eu sou desenvolvedor Web Full Stack e utilizo Angular ou React com NodeJS. No meu tempo livre gosto de tocar e ouvir musica, assistir seriados e jogar.  Atualmente estou cursando Analise e Desenvolvimento de Sistemas (3/5) na Unifacs e também me dedico a estudar inglês .</p>
   <div>
+    <div align="center">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SilasSousadeJesus&show_icons=true&theme=radical">
+</div>
 
   
   <br>
