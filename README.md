@@ -1,6 +1,6 @@
  <div>
   <h2 align="center">Seja bem vindo(a), meu nome é Silas!</h2>
-  <p>Eu sou desenvolvedor Web Full Stack e utilizo Angular ou React/React Native com NodeJS. No meu tempo livre gosto de tocar e ouvir musica, assistir seriados e jogar.  Atualmente estou cursando Analise e Desenvolvimento de Sistemas (4/5) na Unifacs e também me dedico a estudar inglês .</p>
+  <p>Eu sou desenvolvedor Web Full Stack. No meu tempo livre gosto de tocar e ouvir musica, assistir seriados e jogar.  Atualmente estou cursando Analise e Desenvolvimento de Sistemas (4/5) na Unifacs e também me dedico a estudar inglês .</p>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SilasSousadeJesus&show_icons=true&count_private=true&theme=radical"
 </div>
@@ -37,6 +37,7 @@
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+    <img src="[https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)">
        <hr>
     <h4>Banco de Dados</h4>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
